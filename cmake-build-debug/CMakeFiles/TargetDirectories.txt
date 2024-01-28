@@ -1,0 +1,3 @@
+/media/mrmas/A41CD3951CD3613A/MUHAMMED/MrMas/iticu-eee/first-year/projects/basic-expression-evaluator/cmake-build-debug/CMakeFiles/basic_expression_evaluator.dir
+/media/mrmas/A41CD3951CD3613A/MUHAMMED/MrMas/iticu-eee/first-year/projects/basic-expression-evaluator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/mrmas/A41CD3951CD3613A/MUHAMMED/MrMas/iticu-eee/first-year/projects/basic-expression-evaluator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

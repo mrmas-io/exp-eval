@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "basic_expression_evaluator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "basic_expression_evaluator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-basic_expression_evaluator-Debug-cd9354a3d7f323cc950b.json",
+					"name" : "basic_expression_evaluator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/mrmas/A41CD3951CD3613A/MUHAMMED/MrMas/iticu-eee/first-year/projects/basic-expression-evaluator/cmake-build-debug",
+		"source" : "/media/mrmas/A41CD3951CD3613A/MUHAMMED/MrMas/iticu-eee/first-year/projects/basic-expression-evaluator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

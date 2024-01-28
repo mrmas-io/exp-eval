@@ -1,0 +1,9 @@
+# ninja log v5
+107	215	1706137814129514500	basic_expression_evaluator	3d8699a9ed5025d
+1	101	1706137814015660400	CMakeFiles/basic_expression_evaluator.dir/main.c.o	b28439bc72759b1e
+1	196	1706470415982171900	CMakeFiles/basic_expression_evaluator.dir/main.c.o	4d3a3b0a5dab7895
+197	307	1706470416092886100	basic_expression_evaluator	418b324219e06f74
+1	283	1706473654182862100	CMakeFiles/basic_expression_evaluator.dir/main.c.o	4d3a3b0a5dab7895
+284	367	1706473654266645900	basic_expression_evaluator	418b324219e06f74
+1	133	1706473891911659300	CMakeFiles/basic_expression_evaluator.dir/main.c.o	4d3a3b0a5dab7895
+133	201	1706473891979880600	basic_expression_evaluator	418b324219e06f74
